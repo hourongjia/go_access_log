@@ -6,12 +6,7 @@ ginzap也是一个记录accesslog的gin插件，但是目前来看，它无法�
 
 # 使用方法
 
-## 引入依赖
-``` 
 
-  go get go.didapinche.com/gin_accesslog
-  
-``` 
 ## 集成到gin中
 ``` 
 r := gin.Default()
